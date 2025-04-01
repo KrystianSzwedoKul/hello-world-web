@@ -7,4 +7,4 @@ Strona internetowa
 otwórz plik index.html
 
 ## Przykład użycia
-otwórz plik index.html
+otwórz plik index.html   
